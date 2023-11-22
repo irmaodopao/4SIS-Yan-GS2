@@ -7,8 +7,9 @@ Este projeto tem como objetivo a classificação de imagens em duas categorias: 
 
 ### Execução do Notebook, intrução de uso:
 1. Abra o notebook GS_Rede_Neural_Convolucional_4SIS.ipynb no ambiente de desenvolvimento desejado (Google Colab recomendado).
-2. Execute a célula.
-3. Analise os resultados apresentados no final do notebook.
+2. Faça a importação das imagens.
+3. Execute a célula.
+4. Analise os resultados apresentados no final do notebook.
 
 
 ### Requisitos e Dependências:
@@ -32,7 +33,11 @@ O código proposto é destinado à classificação de imagens de saúde usando a
 
 ## Autores
 
-Grupo GS - 4SIS
-Fabricio Rodrigues Alves 84729
-Vitor Akira Ucha Ito 84628
-Yuri Lopes Padlipskas 84617
+##### Grupo GS - 4SIS
+ - Fabricio Rodrigues Alves 84729
+ - Vitor Akira Ucha Ito 84628
+ - Yuri Lopes Padlipskas 84617
+
+## Link vídeo explicativo
+
+Youtube: https://youtu.be/_hwtVuTOVCs
